@@ -1,0 +1,919 @@
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+D:\vb.net\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+D:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+C:\___Sales and Inventory___\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+C:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+C:\Users\Angelito\Desktop\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPHYSICALCOUNT_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPHYSICALCOUNT_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+G:\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOS_CHOICES.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCT_PACING_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Frm_Screen.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCT_PACING_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Frm_Screen.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPHYSICALCOUNT_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOS_CHOICES.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCT_PACING_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Frm_Screen.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPHYSICALCOUNT_ADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOS_CHOICES.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+C:\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+D:\_PROGRAM\_VB.NET\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAbout.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbprojResolveAssemblyReference.cache
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCT_PACING_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Frm_Screen.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAbout.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPHYSICALCOUNT_ADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOS_CHOICES.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.ResolveComReference.cache
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\bin\Debug\Interop.CRDESIGNERLib.dll
+C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.ResolveComReference.cache
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\Interop.CRDESIGNERLib.dll
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbprojResolveAssemblyReference.cache
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCT_PACING_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Frm_Screen.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAbout.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPHYSICALCOUNT_ADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOS_CHOICES.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+C:\Phuc\1.Projects\2.Application\5.Inventory\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.ResolveComReference.cache
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.exe
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.xml
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.pdb
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.exe
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.pdb
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\prjSalesInventory.xml
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\bin\Debug\Interop.CRDESIGNERLib.dll
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbprojResolveAssemblyReference.cache
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORY_ITEM_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCOLLECTION_SUMMARY.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_RETURN.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCT_PACING_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmReturn_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Frm_Screen.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAbout.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAUDIT_TRAIL.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCAT_GROUP_ADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_ADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_PENDING.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCK_LIST.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_LIST.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_PO_LIST.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_RETURN_STOCKS.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_ADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmDEFFECTIVE_STOCKS_DATA_ADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmLOGIN.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASE_ORDER_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmRECEIVE_ORDER_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_COLLECTION_VOID_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSALES_REPORT_RECEIPT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIER_PRODUCT_PRINT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmADDSUPPLIER_ITEM.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATITEMADD_2.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmORDER_FORM_DATA.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPENDING_STOCK_LIST.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPhysicalCount.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPHYSICALCOUNT_ADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSEDIT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSSTOCKSLIST.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSVIEW.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOS_CHOICES.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTSDated.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSERVERSETTINGS.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSet.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBarcode.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBUSINESS_INFO.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPASSWORD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSCASHIER.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSPAYMENT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPOSRECEIPT_LIST.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPRODUCTS_REORDER.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA_EDIT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIVE.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERDATA.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDERLIST.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmREPORTS.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSTOCKADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmAddSupplier.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmadduser.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmBG.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCATEGORYSELECTitem.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatITEMList.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmCatList.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmStockList.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.frmSTOCKMONITORINGBALANCES.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSUPPLIERSPRODUCT.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSuppliersList.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmSysUser.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmUNIT_MEASURE_ADD.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.MDIMain.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
+C:\Users\ttmduyen\Downloads\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache

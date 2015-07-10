@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="prjSalesInventory">
+</Property><Property Name="Solution File" Value="C:\Phuc\6.Testing\Desktop\POS\Sales and Inventory_GAZUTO\prjSalesInventory\prjSalesInventory.sln">
+</Property><Property Name="Date" Value="Saturday, October 11, 2014">
+</Property><Property Name="Time" Value="2:10">
+</Property></Properties><Event ErrorLevel="4" Project="prjSalesInventory" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="prjSalesInventory" Source="prjSalesInventory\prjSalesInventory.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="prjSalesInventory" Source="prjSalesInventory\prjSalesInventory.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="prjSalesInventory.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="prjSalesInventory.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="prjSalesInventory" Source="prjSalesInventory\prjSalesInventory.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="prjSalesInventory" Source="prjSalesInventory\prjSalesInventory.vbproj" Description="References to Microsoft.VisualBasic.PowerPacks.Vs were updated to Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>

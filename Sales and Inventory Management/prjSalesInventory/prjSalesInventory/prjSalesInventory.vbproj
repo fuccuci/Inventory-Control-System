@@ -1,0 +1,1116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ADB0C842-0E22-49BF-832C-E72C756AFA52}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>prjSalesInventory.My.MyApplication</StartupObject>
+    <RootNamespace>prjSalesInventory</RootNamespace>
+    <AssemblyName>prjSalesInventory</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>prjSalesInventory.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>prjSalesInventory.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\adodb.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormX\Form_PrintX\FrmCATEGORY_ITEM_PRINT.Designer.vb">
+      <DependentUpon>FrmCATEGORY_ITEM_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmCATEGORY_ITEM_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmCOLLECTION_SUMMARY.Designer.vb">
+      <DependentUpon>FrmCOLLECTION_SUMMARY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmCOLLECTION_SUMMARY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmDEFFECTIVE_STOCKS_PRINT.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmDEFFECTIVE_STOCKS_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmDEFFECTIVE_STOCKS_RETURN.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_RETURN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmDEFFECTIVE_STOCKS_RETURN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmPRODUCT_PACING_PRINT.Designer.vb">
+      <DependentUpon>FrmPRODUCT_PACING_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmPRODUCT_PACING_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmReturn_PRINT.Designer.vb">
+      <DependentUpon>FrmReturn_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmReturn_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\Frm_Screen.Designer.vb">
+      <DependentUpon>Frm_Screen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\Frm_Screen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmAbout.Designer.vb">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmAUDIT_TRAIL.Designer.vb">
+      <DependentUpon>FrmAUDIT_TRAIL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmAUDIT_TRAIL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmCAT_GROUP_ADD.Designer.vb">
+      <DependentUpon>FrmCAT_GROUP_ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmCAT_GROUP_ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_ADD.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_PENDING.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_PENDING.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_PENDING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_STOCK_LIST.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_STOCK_LIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_STOCK_LIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_STOCKS_LIST.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_LIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_STOCKS_LIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_PO_LIST.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_PO_LIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_PO_LIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_STOCKS_ADD.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_STOCKS_ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_STOCKS.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_STOCKS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_RETURN_STOCKS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_STOCKS_DATA_ADD.Designer.vb">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_DATA_ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmDEFFECTIVE_STOCKS_DATA_ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmLOGIN.Designer.vb">
+      <DependentUpon>FrmLOGIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmLOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmPURCHASE_ORDER_PRINT.Designer.vb">
+      <DependentUpon>FrmPURCHASE_ORDER_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmPURCHASE_ORDER_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmRECEIVE_ORDER_PRINT.Designer.vb">
+      <DependentUpon>FrmRECEIVE_ORDER_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmRECEIVE_ORDER_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSALES_COLLECTION_PRINT.Designer.vb">
+      <DependentUpon>FrmSALES_COLLECTION_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSALES_COLLECTION_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSALES_COLLECTION_VOID_PRINT.Designer.vb">
+      <DependentUpon>FrmSALES_COLLECTION_VOID_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSALES_COLLECTION_VOID_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSALES_REPORT_RECEIPT.Designer.vb">
+      <DependentUpon>FrmSALES_REPORT_RECEIPT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSALES_REPORT_RECEIPT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSUPPLIER_PRODUCT_PRINT.Designer.vb">
+      <DependentUpon>FrmSUPPLIER_PRODUCT_PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\Form_PrintX\FrmSUPPLIER_PRODUCT_PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmADDSUPPLIER_ITEM.Designer.vb">
+      <DependentUpon>FrmADDSUPPLIER_ITEM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmADDSUPPLIER_ITEM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmCATITEMADD_2.Designer.vb">
+      <DependentUpon>FrmCATITEMADD_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmCATITEMADD_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmORDER_FORM.Designer.vb">
+      <DependentUpon>FrmORDER_FORM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmORDER_FORM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmORDER_FORM_DATA.Designer.vb">
+      <DependentUpon>FrmORDER_FORM_DATA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmORDER_FORM_DATA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPENDING_STOCK_LIST.Designer.vb">
+      <DependentUpon>FrmPENDING_STOCK_LIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPENDING_STOCK_LIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPHYSICALCOUNT.Designer.vb">
+      <DependentUpon>FrmPHYSICALCOUNT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPHYSICALCOUNT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPHYSICALCOUNT_ADD.Designer.vb">
+      <DependentUpon>FrmPHYSICALCOUNT_ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPHYSICALCOUNT_ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOSADD.Designer.vb">
+      <DependentUpon>FrmPOSADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOSADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOSEDIT.Designer.vb">
+      <DependentUpon>FrmPOSEDIT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOSEDIT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOSSTOCKSLIST.Designer.vb">
+      <DependentUpon>FrmPOSSTOCKSLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOSSTOCKSLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOSVIEW.Designer.vb">
+      <DependentUpon>FrmPOSVIEW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOSVIEW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOS_CHOICES.Designer.vb">
+      <DependentUpon>FrmPOS_CHOICES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOS_CHOICES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmREPORTSDated.Designer.vb">
+      <DependentUpon>FrmREPORTSDated.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmREPORTSDated.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSERVERSETTINGS.Designer.vb">
+      <DependentUpon>FrmSERVERSETTINGS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSERVERSETTINGS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSet.Designer.vb">
+      <DependentUpon>FrmSet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmUNIT_MEASURE.Designer.vb">
+      <DependentUpon>FrmUNIT_MEASURE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmUNIT_MEASURE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmBarcode.Designer.vb">
+      <DependentUpon>FrmBarcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmBarcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmBUSINESS_INFO.Designer.vb">
+      <DependentUpon>FrmBUSINESS_INFO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmBUSINESS_INFO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPASSWORD.Designer.vb">
+      <DependentUpon>FrmPASSWORD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPASSWORD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOSCASHIER.Designer.vb">
+      <DependentUpon>FrmPOSCASHIER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOSCASHIER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOSPAYMENT.Designer.vb">
+      <DependentUpon>FrmPOSPAYMENT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOSPAYMENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPOSRECEIPT_LIST.Designer.vb">
+      <DependentUpon>FrmPOSRECEIPT_LIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPOSRECEIPT_LIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPRODUCTS_REORDER.Designer.vb">
+      <DependentUpon>FrmPRODUCTS_REORDER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPRODUCTS_REORDER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERDATA_EDIT.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDERDATA_EDIT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERDATA_EDIT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER_RECEIVE.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDER_RECEIVE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER_RECEIVE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERADD.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDERADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERDATA.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDERDATA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERDATA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERLIST.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDERLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDERLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmREPORTS.Designer.vb">
+      <DependentUpon>FrmREPORTS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmREPORTS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSTOCKADD.Designer.vb">
+      <DependentUpon>FrmSTOCKADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSTOCKADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmADDSUPPLIER.Designer.vb">
+      <DependentUpon>FrmADDSUPPLIER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmADDSUPPLIER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmADDUSER.designer.vb">
+      <DependentUpon>FrmADDUSER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmADDUSER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmBG.Designer.vb">
+      <DependentUpon>FrmBG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmBG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmCATADD.Designer.vb">
+      <DependentUpon>FrmCATADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmCATADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmCATEGORYSELECTITEM.Designer.vb">
+      <DependentUpon>FrmCATEGORYSELECTITEM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmCATEGORYSELECTITEM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmCATITEMADD.Designer.vb">
+      <DependentUpon>FrmCATITEMADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmCATITEMADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmCATITEMLIST.Designer.vb">
+      <DependentUpon>FrmCATITEMLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmCATITEMLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmCATLIST.Designer.vb">
+      <DependentUpon>FrmCATLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmCATLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSTOCKLIST.Designer.vb">
+      <DependentUpon>FrmSTOCKLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSTOCKLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSTOCKMONITORINGBALANCES.Designer.vb">
+      <DependentUpon>FrmSTOCKMONITORINGBALANCES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSTOCKMONITORINGBALANCES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSUPPLIERSPRODUCT.Designer.vb">
+      <DependentUpon>FrmSUPPLIERSPRODUCT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSUPPLIERSPRODUCT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSUPPLIERSLIST.Designer.vb">
+      <DependentUpon>FrmSUPPLIERSLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSUPPLIERSLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmSYSUSER.Designer.vb">
+      <DependentUpon>FrmSYSUSER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmSYSUSER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\FrmUNIT_MEASURE_ADD.Designer.vb">
+      <DependentUpon>FrmUNIT_MEASURE_ADD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmUNIT_MEASURE_ADD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormX\MDIMain.Designer.vb">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\MDIMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleX\ModActiveForm.vb" />
+    <Compile Include="ModuleX\ModCon.vb" />
+    <Compile Include="ModuleX\ModProcedure.vb" />
+    <Compile Include="ModuleX\ModMDIMAIN.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReportX\BARCODE.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BARCODE.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\Collection_Summary.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Collection_Summary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\Order_Slip.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Order_Slip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\CurrentStocks_Rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CurrentStocks_Rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\Deffective_Stocks.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deffective_Stocks.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\Deffective_Stocks_Return.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deffective_Stocks_Return.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\PhysicalCount_Report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PhysicalCount_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\PO_Supplier_RPT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PO_Supplier_RPT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\ProductList_Rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductList_Rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\ProductPacing_Report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductPacing_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\Products_Reorder.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Products_Reorder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\product_pacing_slow_moving.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>product_pacing_slow_moving.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\PurchaseOrder_Rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchaseOrder_Rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\PurchaseReceive_RPT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PurchaseReceive_RPT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\Receipt_Rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Receipt_Rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\ReturnStockToCustomer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReturnStockToCustomer.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\SALES_RECEIPT_REPORT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALES_RECEIPT_REPORT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\SALES_REPORT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALES_REPORT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\SALES_REPORT_VOID.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALES_REPORT_VOID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\SuppliersList_Rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuppliersList_Rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\SuppliersProduct_RPT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuppliersProduct_RPT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportX\Users_LOG.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Users_LOG.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmCATEGORY_ITEM_PRINT.resx">
+      <DependentUpon>FrmCATEGORY_ITEM_PRINT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmCOLLECTION_SUMMARY.resx">
+      <DependentUpon>FrmCOLLECTION_SUMMARY.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmDEFFECTIVE_STOCKS_PRINT.resx">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_PRINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmDEFFECTIVE_STOCKS_RETURN.resx">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_RETURN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmPRODUCT_PACING_PRINT.resx">
+      <DependentUpon>FrmPRODUCT_PACING_PRINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmReturn_PRINT.resx">
+      <DependentUpon>FrmReturn_PRINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\Frm_Screen.resx">
+      <DependentUpon>Frm_Screen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmAbout.resx">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmAUDIT_TRAIL.resx">
+      <DependentUpon>FrmAUDIT_TRAIL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmCAT_GROUP_ADD.resx">
+      <DependentUpon>FrmCAT_GROUP_ADD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_RETURN_ADD.resx">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_ADD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_RETURN_PENDING.resx">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_PENDING.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.resx">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_STOCKS_DATA_ADD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_RETURN_STOCK_LIST.resx">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_STOCK_LIST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_STOCKS_LIST.resx">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_LIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_PO_LIST.resx">
+      <DependentUpon>FrmDEFFECTIVE_PO_LIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_RETURN_STOCKS.resx">
+      <DependentUpon>FrmDEFFECTIVE_RETURN_STOCKS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_STOCKS_ADD.resx">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_ADD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmDEFFECTIVE_STOCKS_DATA_ADD.resx">
+      <DependentUpon>FrmDEFFECTIVE_STOCKS_DATA_ADD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmLOGIN.resx">
+      <DependentUpon>FrmLOGIN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmPURCHASE_ORDER_PRINT.resx">
+      <DependentUpon>FrmPURCHASE_ORDER_PRINT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmRECEIVE_ORDER_PRINT.resx">
+      <DependentUpon>FrmRECEIVE_ORDER_PRINT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmSALES_COLLECTION_PRINT.resx">
+      <DependentUpon>FrmSALES_COLLECTION_PRINT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmSALES_COLLECTION_VOID_PRINT.resx">
+      <DependentUpon>FrmSALES_COLLECTION_VOID_PRINT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmSALES_REPORT_RECEIPT.resx">
+      <DependentUpon>FrmSALES_REPORT_RECEIPT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\Form_PrintX\FrmSUPPLIER_PRODUCT_PRINT.resx">
+      <DependentUpon>FrmSUPPLIER_PRODUCT_PRINT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmADDSUPPLIER_ITEM.resx">
+      <DependentUpon>FrmADDSUPPLIER_ITEM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmCATITEMADD_2.resx">
+      <DependentUpon>FrmCATITEMADD_2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmORDER_FORM.resx">
+      <DependentUpon>FrmORDER_FORM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmORDER_FORM_DATA.resx">
+      <DependentUpon>FrmORDER_FORM_DATA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPENDING_STOCK_LIST.resx">
+      <DependentUpon>FrmPENDING_STOCK_LIST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPHYSICALCOUNT.resx">
+      <DependentUpon>FrmPHYSICALCOUNT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPHYSICALCOUNT_ADD.resx">
+      <DependentUpon>FrmPHYSICALCOUNT_ADD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOSADD.resx">
+      <DependentUpon>FrmPOSADD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOSEDIT.resx">
+      <DependentUpon>FrmPOSEDIT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOSSTOCKSLIST.resx">
+      <DependentUpon>FrmPOSSTOCKSLIST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOSVIEW.resx">
+      <DependentUpon>FrmPOSVIEW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOS_CHOICES.resx">
+      <DependentUpon>FrmPOS_CHOICES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmREPORTSDated.resx">
+      <DependentUpon>FrmREPORTSDated.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSERVERSETTINGS.resx">
+      <DependentUpon>FrmSERVERSETTINGS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSet.resx">
+      <DependentUpon>FrmSet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmUNIT_MEASURE.resx">
+      <DependentUpon>FrmUNIT_MEASURE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmBarcode.resx">
+      <DependentUpon>FrmBarcode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmBUSINESS_INFO.resx">
+      <DependentUpon>FrmBUSINESS_INFO.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPASSWORD.resx">
+      <DependentUpon>FrmPASSWORD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOSCASHIER.resx">
+      <DependentUpon>FrmPOSCASHIER.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOSPAYMENT.resx">
+      <DependentUpon>FrmPOSPAYMENT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPOSRECEIPT_LIST.resx">
+      <DependentUpon>FrmPOSRECEIPT_LIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPRODUCTS_REORDER.resx">
+      <DependentUpon>FrmPRODUCTS_REORDER.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDERDATA_EDIT.resx">
+      <DependentUpon>FrmPURCHASEORDERDATA_EDIT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDER_RECEIVE.resx">
+      <DependentUpon>FrmPURCHASEORDER_RECEIVE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDER.resx">
+      <DependentUpon>FrmPURCHASEORDER.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDERADD.resx">
+      <DependentUpon>FrmPURCHASEORDERADD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDERDATA.resx">
+      <DependentUpon>FrmPURCHASEORDERDATA.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDERLIST.resx">
+      <DependentUpon>FrmPURCHASEORDERLIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmREPORTS.resx">
+      <DependentUpon>FrmREPORTS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSTOCKADD.resx">
+      <DependentUpon>FrmSTOCKADD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmADDSUPPLIER.resx">
+      <DependentUpon>FrmADDSUPPLIER.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmADDUSER.resx">
+      <DependentUpon>FrmADDUSER.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmBG.resx">
+      <DependentUpon>FrmBG.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmCATADD.resx">
+      <DependentUpon>FrmCATADD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmCATEGORYSELECTITEM.resx">
+      <DependentUpon>FrmCATEGORYSELECTITEM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmCATITEMADD.resx">
+      <DependentUpon>FrmCATITEMADD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmCATITEMLIST.resx">
+      <DependentUpon>FrmCATITEMLIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmCATLIST.resx">
+      <DependentUpon>FrmCATLIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSTOCKLIST.resx">
+      <DependentUpon>FrmSTOCKLIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSTOCKMONITORINGBALANCES.resx">
+      <DependentUpon>FrmSTOCKMONITORINGBALANCES.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSUPPLIERSPRODUCT.resx">
+      <DependentUpon>FrmSUPPLIERSPRODUCT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSUPPLIERSLIST.resx">
+      <DependentUpon>FrmSUPPLIERSLIST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmSYSUSER.resx">
+      <DependentUpon>FrmSYSUSER.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmUNIT_MEASURE_ADD.resx">
+      <DependentUpon>FrmUNIT_MEASURE_ADD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\MDIMain.resx">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\BARCODE.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BARCODE.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\Collection_Summary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Collection_Summary.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\Order_Slip.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Order_Slip.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\CurrentStocks_Rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CurrentStocks_Rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\Deffective_Stocks.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Deffective_Stocks.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\Deffective_Stocks_Return.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Deffective_Stocks_Return.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\PhysicalCount_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PhysicalCount_Report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\PO_Supplier_RPT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PO_Supplier_RPT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\ProductList_Rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ProductList_Rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\ProductPacing_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ProductPacing_Report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\Products_Reorder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Products_Reorder.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\product_pacing_slow_moving.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>product_pacing_slow_moving.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\PurchaseOrder_Rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PurchaseOrder_Rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\PurchaseReceive_RPT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PurchaseReceive_RPT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\Receipt_Rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Receipt_Rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\ReturnStockToCustomer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReturnStockToCustomer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\SALES_RECEIPT_REPORT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALES_RECEIPT_REPORT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\SALES_REPORT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALES_REPORT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\SALES_REPORT_VOID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALES_REPORT_VOID.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\SuppliersList_Rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SuppliersList_Rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\SuppliersProduct_RPT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SuppliersProduct_RPT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportX\Users_LOG.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Users_LOG.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImageX\PlasticXP2\organize.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImageX\IconBase Sketch Stock\shared.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImageX\x1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImageX\x2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ImageX\xx.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="CRDESIGNERLib">
+      <Guid>{C0AA5023-C763-4A4B-AFED-ADCF78D6C08B}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
