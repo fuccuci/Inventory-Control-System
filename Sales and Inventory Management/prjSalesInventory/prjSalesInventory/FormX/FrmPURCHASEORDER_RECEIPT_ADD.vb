@@ -1,0 +1,3 @@
+﻿Public Class FrmPURCHASEORDER_RECEIPT_ADD
+
+End Class

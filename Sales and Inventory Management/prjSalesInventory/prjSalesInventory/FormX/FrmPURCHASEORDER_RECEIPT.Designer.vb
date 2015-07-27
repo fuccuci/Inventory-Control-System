@@ -30,21 +30,21 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.Label2 = New System.Windows.Forms.Label()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.dtfrompodate = New System.Windows.Forms.DateTimePicker()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.dttopodate = New System.Windows.Forms.DateTimePicker()
+        Me.chkreceivedateall = New System.Windows.Forms.CheckBox()
+        Me.chkpodateall = New System.Windows.Forms.CheckBox()
         Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
         Me.Label6 = New System.Windows.Forms.Label()
-        Me.chkpodateall = New System.Windows.Forms.CheckBox()
-        Me.chkreceivedateall = New System.Windows.Forms.CheckBox()
+        Me.dttopodate = New System.Windows.Forms.DateTimePicker()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.dtfrompodate = New System.Windows.Forms.DateTimePicker()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.lstreceive = New System.Windows.Forms.ListView()
         Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.Label8 = New System.Windows.Forms.Label()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Label8 = New System.Windows.Forms.Label()
         Me.lbSumReceivedAmt = New System.Windows.Forms.Label()
         Me.lbSumPOAmt = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
@@ -90,9 +90,9 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         '
         'Label2
         '
-        Me.Label2.Location = New System.Drawing.Point(12, 94)
+        Me.Label2.Location = New System.Drawing.Point(9, 94)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(81, 13)
+        Me.Label2.Size = New System.Drawing.Size(95, 19)
         Me.Label2.TabIndex = 5
         Me.Label2.Text = "Purchase Order:"
         '
@@ -122,41 +122,23 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Date Range"
         '
-        'Label3
+        'chkreceivedateall
         '
-        Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(6, 21)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(51, 13)
-        Me.Label3.TabIndex = 6
-        Me.Label3.Text = "PO Date:"
+        Me.chkreceivedateall.Location = New System.Drawing.Point(504, 47)
+        Me.chkreceivedateall.Name = "chkreceivedateall"
+        Me.chkreceivedateall.Size = New System.Drawing.Size(37, 14)
+        Me.chkreceivedateall.TabIndex = 15
+        Me.chkreceivedateall.Text = "All"
+        Me.chkreceivedateall.UseVisualStyleBackColor = True
         '
-        'dtfrompodate
+        'chkpodateall
         '
-        Me.dtfrompodate.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dtfrompodate.CustomFormat = ""
-        Me.dtfrompodate.Location = New System.Drawing.Point(83, 19)
-        Me.dtfrompodate.Name = "dtfrompodate"
-        Me.dtfrompodate.Size = New System.Drawing.Size(194, 20)
-        Me.dtfrompodate.TabIndex = 7
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(283, 21)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(16, 13)
-        Me.Label4.TabIndex = 8
-        Me.Label4.Text = "to"
-        '
-        'dttopodate
-        '
-        Me.dttopodate.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dttopodate.CustomFormat = ""
-        Me.dttopodate.Location = New System.Drawing.Point(305, 19)
-        Me.dttopodate.Name = "dttopodate"
-        Me.dttopodate.Size = New System.Drawing.Size(194, 20)
-        Me.dttopodate.TabIndex = 9
+        Me.chkpodateall.Location = New System.Drawing.Point(504, 22)
+        Me.chkpodateall.Name = "chkpodateall"
+        Me.chkpodateall.Size = New System.Drawing.Size(37, 14)
+        Me.chkpodateall.TabIndex = 14
+        Me.chkpodateall.Text = "All"
+        Me.chkpodateall.UseVisualStyleBackColor = True
         '
         'DateTimePicker1
         '
@@ -194,23 +176,41 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.Label6.TabIndex = 10
         Me.Label6.Text = "Receive Date:"
         '
-        'chkpodateall
+        'dttopodate
         '
-        Me.chkpodateall.Location = New System.Drawing.Point(504, 22)
-        Me.chkpodateall.Name = "chkpodateall"
-        Me.chkpodateall.Size = New System.Drawing.Size(37, 14)
-        Me.chkpodateall.TabIndex = 14
-        Me.chkpodateall.Text = "All"
-        Me.chkpodateall.UseVisualStyleBackColor = True
+        Me.dttopodate.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dttopodate.CustomFormat = ""
+        Me.dttopodate.Location = New System.Drawing.Point(305, 19)
+        Me.dttopodate.Name = "dttopodate"
+        Me.dttopodate.Size = New System.Drawing.Size(194, 20)
+        Me.dttopodate.TabIndex = 9
         '
-        'chkreceivedateall
+        'Label4
         '
-        Me.chkreceivedateall.Location = New System.Drawing.Point(504, 47)
-        Me.chkreceivedateall.Name = "chkreceivedateall"
-        Me.chkreceivedateall.Size = New System.Drawing.Size(37, 14)
-        Me.chkreceivedateall.TabIndex = 15
-        Me.chkreceivedateall.Text = "All"
-        Me.chkreceivedateall.UseVisualStyleBackColor = True
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(283, 21)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(16, 13)
+        Me.Label4.TabIndex = 8
+        Me.Label4.Text = "to"
+        '
+        'dtfrompodate
+        '
+        Me.dtfrompodate.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dtfrompodate.CustomFormat = ""
+        Me.dtfrompodate.Location = New System.Drawing.Point(83, 19)
+        Me.dtfrompodate.Name = "dtfrompodate"
+        Me.dtfrompodate.Size = New System.Drawing.Size(194, 20)
+        Me.dtfrompodate.TabIndex = 7
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(6, 21)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(51, 13)
+        Me.Label3.TabIndex = 6
+        Me.Label3.Text = "PO Date:"
         '
         'GroupBox2
         '
@@ -241,6 +241,16 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.Panel1.Size = New System.Drawing.Size(316, 33)
         Me.Panel1.TabIndex = 14
         '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
+        Me.PictureBox1.Location = New System.Drawing.Point(2, -1)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(47, 31)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 15
+        Me.PictureBox1.TabStop = False
+        '
         'Label8
         '
         Me.Label8.AutoSize = True
@@ -251,16 +261,6 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.Label8.Size = New System.Drawing.Size(234, 23)
         Me.Label8.TabIndex = 1
         Me.Label8.Text = "Purchase Order Receipt"
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(2, -1)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(47, 31)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 15
-        Me.PictureBox1.TabStop = False
         '
         'lbSumReceivedAmt
         '

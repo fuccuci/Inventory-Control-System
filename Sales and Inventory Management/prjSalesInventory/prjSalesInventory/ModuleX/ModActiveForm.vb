@@ -57,6 +57,9 @@ Module ModActiveForm
 
             Case UCase("frmphysicalcount")
                 FormShow(FrmPHYSICALCOUNT_ADD, False, 0, 0)
+
+            Case UCase("FrmPURCHASEORDER_RECEIPT")
+                FormShow(FrmPURCHASEORDER_RECEIPT_ADD, False, 0, 0)
         End Select
     End Sub
 
