@@ -23,29 +23,29 @@ Partial Class FrmCATITEMADD_2
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmCATITEMADD_2))
-        Me.Panel1 = New System.Windows.Forms.Panel
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
-        Me.cmdcancel = New System.Windows.Forms.Button
-        Me.cmdSave = New System.Windows.Forms.Button
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.cmbrand = New System.Windows.Forms.ComboBox
-        Me.Label10 = New System.Windows.Forms.Label
-        Me.cmbCategory = New System.Windows.Forms.ComboBox
-        Me.cmbUnit = New System.Windows.Forms.ComboBox
-        Me.Label9 = New System.Windows.Forms.Label
-        Me.txtprice = New System.Windows.Forms.TextBox
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.txtreorder = New System.Windows.Forms.TextBox
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtbarcode = New System.Windows.Forms.TextBox
-        Me.txtdesc = New System.Windows.Forms.TextBox
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.txtname = New System.Windows.Forms.TextBox
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.cmdcancel = New System.Windows.Forms.Button()
+        Me.cmdSave = New System.Windows.Forms.Button()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.cmbrand = New System.Windows.Forms.ComboBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.cmbCategory = New System.Windows.Forms.ComboBox()
+        Me.cmbUnit = New System.Windows.Forms.ComboBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtprice = New System.Windows.Forms.TextBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.txtreorder = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtbarcode = New System.Windows.Forms.TextBox()
+        Me.txtdesc = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtname = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
@@ -147,9 +147,9 @@ Partial Class FrmCATITEMADD_2
         Me.Label10.AutoSize = True
         Me.Label10.Location = New System.Drawing.Point(31, 28)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(74, 13)
+        Me.Label10.Size = New System.Drawing.Size(75, 13)
         Me.Label10.TabIndex = 105
-        Me.Label10.Text = "Select Brand :"
+        Me.Label10.Text = "Select Group :"
         '
         'cmbCategory
         '

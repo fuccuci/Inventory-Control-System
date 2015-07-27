@@ -102,6 +102,7 @@
                             'MsgBox(" 1 " & lstbarcode.Items(x).Text)
                             sqlSTR = "INSERT INTO TBL_Barcode (Barcode1) VALUES ('" & lstbarcode.Items(x).Text & "')"
                             ExecuteSQLQuery(sqlSTR)
+
                             sqlSTR = "SELECT * FROM TBL_Barcode ORDER BY ID DESC"
                             ExecuteSQLQuery(sqlSTR)
                             XHOLD = sqlDT.Rows(0)("ID")

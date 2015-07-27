@@ -92,7 +92,7 @@ Partial Class MDIMain
         Me.LinkMaintain = New System.Windows.Forms.LinkLabel()
         Me.PanelPurchasing = New System.Windows.Forms.Panel()
         Me.cmdPhysical = New System.Windows.Forms.Button()
-        Me.cmdDefective = New System.Windows.Forms.Button()
+        Me.cmdReceipt = New System.Windows.Forms.Button()
         Me.cmdProductReorder = New System.Windows.Forms.Button()
         Me.cmdStockMonitoring = New System.Windows.Forms.Button()
         Me.cmdOrderReceive = New System.Windows.Forms.Button()
@@ -584,7 +584,7 @@ Partial Class MDIMain
         Me.PanelSales.Controls.Add(Me.cmdCashiering)
         Me.PanelSales.Controls.Add(Me.cmdCustomerOrder)
         Me.PanelSales.Controls.Add(Me.Panel5)
-        Me.PanelSales.Location = New System.Drawing.Point(3, 55)
+        Me.PanelSales.Location = New System.Drawing.Point(4, 54)
         Me.PanelSales.Name = "PanelSales"
         Me.PanelSales.Size = New System.Drawing.Size(173, 21)
         Me.PanelSales.TabIndex = 29
@@ -670,7 +670,7 @@ Partial Class MDIMain
         '
         Me.Panel5.BackColor = System.Drawing.Color.WhiteSmoke
         Me.Panel5.Controls.Add(Me.LinkSales)
-        Me.Panel5.Location = New System.Drawing.Point(0, 0)
+        Me.Panel5.Location = New System.Drawing.Point(0, 3)
         Me.Panel5.Name = "Panel5"
         Me.Panel5.Size = New System.Drawing.Size(163, 20)
         Me.Panel5.TabIndex = 29
@@ -680,7 +680,7 @@ Partial Class MDIMain
         Me.LinkSales.AutoSize = True
         Me.LinkSales.Enabled = False
         Me.LinkSales.Font = New System.Drawing.Font("Arial Black", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LinkSales.Location = New System.Drawing.Point(31, 0)
+        Me.LinkSales.Location = New System.Drawing.Point(31, 3)
         Me.LinkSales.Name = "LinkSales"
         Me.LinkSales.Size = New System.Drawing.Size(112, 17)
         Me.LinkSales.TabIndex = 1
@@ -807,14 +807,14 @@ Partial Class MDIMain
         '
         Me.PanelPurchasing.BackColor = System.Drawing.Color.WhiteSmoke
         Me.PanelPurchasing.Controls.Add(Me.cmdPhysical)
-        Me.PanelPurchasing.Controls.Add(Me.cmdDefective)
+        Me.PanelPurchasing.Controls.Add(Me.cmdReceipt)
         Me.PanelPurchasing.Controls.Add(Me.cmdProductReorder)
         Me.PanelPurchasing.Controls.Add(Me.cmdStockMonitoring)
         Me.PanelPurchasing.Controls.Add(Me.cmdOrderReceive)
         Me.PanelPurchasing.Controls.Add(Me.Panel3)
-        Me.PanelPurchasing.Location = New System.Drawing.Point(3, 35)
+        Me.PanelPurchasing.Location = New System.Drawing.Point(3, 33)
         Me.PanelPurchasing.Name = "PanelPurchasing"
-        Me.PanelPurchasing.Size = New System.Drawing.Size(173, 21)
+        Me.PanelPurchasing.Size = New System.Drawing.Size(173, 23)
         Me.PanelPurchasing.TabIndex = 1
         '
         'cmdPhysical
@@ -824,26 +824,26 @@ Partial Class MDIMain
         Me.cmdPhysical.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.cmdPhysical.ImageKey = "pie_chart_48.png"
         Me.cmdPhysical.ImageList = Me.ImageList2
-        Me.cmdPhysical.Location = New System.Drawing.Point(1, 88)
+        Me.cmdPhysical.Location = New System.Drawing.Point(1, 122)
         Me.cmdPhysical.Name = "cmdPhysical"
         Me.cmdPhysical.Size = New System.Drawing.Size(170, 34)
         Me.cmdPhysical.TabIndex = 51
         Me.cmdPhysical.Text = "    Physical Counting"
         Me.cmdPhysical.UseVisualStyleBackColor = False
         '
-        'cmdDefective
+        'cmdReceipt
         '
-        Me.cmdDefective.BackColor = System.Drawing.Color.White
-        Me.cmdDefective.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cmdDefective.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdDefective.ImageKey = "box_32.png"
-        Me.cmdDefective.ImageList = Me.ImageList2
-        Me.cmdDefective.Location = New System.Drawing.Point(1, 154)
-        Me.cmdDefective.Name = "cmdDefective"
-        Me.cmdDefective.Size = New System.Drawing.Size(170, 34)
-        Me.cmdDefective.TabIndex = 32
-        Me.cmdDefective.Text = "   Defective Stocks"
-        Me.cmdDefective.UseVisualStyleBackColor = False
+        Me.cmdReceipt.BackColor = System.Drawing.Color.White
+        Me.cmdReceipt.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.cmdReceipt.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdReceipt.ImageKey = "box_32.png"
+        Me.cmdReceipt.ImageList = Me.ImageList2
+        Me.cmdReceipt.Location = New System.Drawing.Point(2, 56)
+        Me.cmdReceipt.Name = "cmdReceipt"
+        Me.cmdReceipt.Size = New System.Drawing.Size(170, 34)
+        Me.cmdReceipt.TabIndex = 32
+        Me.cmdReceipt.Text = "   Purchase Receipts"
+        Me.cmdReceipt.UseVisualStyleBackColor = False
         '
         'cmdProductReorder
         '
@@ -852,7 +852,7 @@ Partial Class MDIMain
         Me.cmdProductReorder.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.cmdProductReorder.ImageKey = "diagram_32.png"
         Me.cmdProductReorder.ImageList = Me.ImageList2
-        Me.cmdProductReorder.Location = New System.Drawing.Point(1, 121)
+        Me.cmdProductReorder.Location = New System.Drawing.Point(1, 155)
         Me.cmdProductReorder.Name = "cmdProductReorder"
         Me.cmdProductReorder.Size = New System.Drawing.Size(170, 34)
         Me.cmdProductReorder.TabIndex = 31
@@ -866,7 +866,7 @@ Partial Class MDIMain
         Me.cmdStockMonitoring.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.cmdStockMonitoring.ImageKey = "stats.ico"
         Me.cmdStockMonitoring.ImageList = Me.ImageList2
-        Me.cmdStockMonitoring.Location = New System.Drawing.Point(1, 55)
+        Me.cmdStockMonitoring.Location = New System.Drawing.Point(1, 89)
         Me.cmdStockMonitoring.Name = "cmdStockMonitoring"
         Me.cmdStockMonitoring.Size = New System.Drawing.Size(170, 34)
         Me.cmdStockMonitoring.TabIndex = 30
@@ -880,18 +880,18 @@ Partial Class MDIMain
         Me.cmdOrderReceive.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.cmdOrderReceive.ImageKey = "archives.png"
         Me.cmdOrderReceive.ImageList = Me.ImageList2
-        Me.cmdOrderReceive.Location = New System.Drawing.Point(1, 22)
+        Me.cmdOrderReceive.Location = New System.Drawing.Point(2, 23)
         Me.cmdOrderReceive.Name = "cmdOrderReceive"
         Me.cmdOrderReceive.Size = New System.Drawing.Size(170, 34)
         Me.cmdOrderReceive.TabIndex = 29
-        Me.cmdOrderReceive.Text = "      Order and Receive"
+        Me.cmdOrderReceive.Text = " Purchase Orders"
         Me.cmdOrderReceive.UseVisualStyleBackColor = False
         '
         'Panel3
         '
         Me.Panel3.BackColor = System.Drawing.Color.WhiteSmoke
         Me.Panel3.Controls.Add(Me.LinkPurchasing)
-        Me.Panel3.Location = New System.Drawing.Point(0, 0)
+        Me.Panel3.Location = New System.Drawing.Point(0, 2)
         Me.Panel3.Name = "Panel3"
         Me.Panel3.Size = New System.Drawing.Size(163, 20)
         Me.Panel3.TabIndex = 29
@@ -901,7 +901,7 @@ Partial Class MDIMain
         Me.LinkPurchasing.AutoSize = True
         Me.LinkPurchasing.Enabled = False
         Me.LinkPurchasing.Font = New System.Drawing.Font("Arial Black", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LinkPurchasing.Location = New System.Drawing.Point(11, 0)
+        Me.LinkPurchasing.Location = New System.Drawing.Point(11, 4)
         Me.LinkPurchasing.Name = "LinkPurchasing"
         Me.LinkPurchasing.Size = New System.Drawing.Size(158, 17)
         Me.LinkPurchasing.TabIndex = 1
@@ -2080,7 +2080,7 @@ Partial Class MDIMain
     Friend WithEvents LinkPurchasing As System.Windows.Forms.LinkLabel
     Friend WithEvents PanelPurchasing As System.Windows.Forms.Panel
     Friend WithEvents ToolStripButton1 As System.Windows.Forms.ToolStripButton
-    Friend WithEvents cmdDefective As System.Windows.Forms.Button
+    Friend WithEvents cmdReceipt As System.Windows.Forms.Button
     Friend WithEvents cmdProductReorder As System.Windows.Forms.Button
     Friend WithEvents cmdStockMonitoring As System.Windows.Forms.Button
     Friend WithEvents cmdOrderReceive As System.Windows.Forms.Button

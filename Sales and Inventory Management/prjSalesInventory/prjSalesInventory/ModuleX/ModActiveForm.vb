@@ -708,6 +708,12 @@ Module ModActiveForm
                 End With
             Case UCase("FrmBG")
                 Call refreshAdvisory()
+                'fuccuci - add po receipt
+            Case UCase("FrmPURCHASEORDER_RECEIPT")
+                With FrmPURCHASEORDER_RECEIPT
+
+                End With
+
         End Select
     End Sub
 

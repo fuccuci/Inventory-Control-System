@@ -329,6 +329,12 @@
     <Compile Include="FormX\FrmPOS_CHOICES.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER_RECEIPT.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDER_RECEIPT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER_RECEIPT.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormX\FrmREPORTSDated.Designer.vb">
       <DependentUpon>FrmREPORTSDated.vb</DependentUpon>
     </Compile>
@@ -815,6 +821,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormX\FrmPOS_CHOICES.resx">
       <DependentUpon>FrmPOS_CHOICES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDER_RECEIPT.resx">
+      <DependentUpon>FrmPURCHASEORDER_RECEIPT.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormX\FrmREPORTSDated.resx">
       <DependentUpon>FrmREPORTSDated.vb</DependentUpon>

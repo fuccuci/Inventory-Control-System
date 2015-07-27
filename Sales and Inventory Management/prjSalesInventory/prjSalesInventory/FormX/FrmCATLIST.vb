@@ -34,7 +34,7 @@
             End With
             grpcatitem.Visible = False
             'GroupBox1.Visible = True
-            FillListView(ExecuteSQLQuery("SELECT Item_ID as 'ID', TBL_Category_Item_File.Catg_ID as 'Category ID', Group_Name AS 'Brand' ,replace(Replace(Item_Name,'$.$',''''),'$..$',',') as 'Name', Item_Description as 'Description / Item Number', Item_Barcode as 'Barcode', Item_Reorder_Point as 'Reorder Point', Item_Org_Price as 'Price', Item_Price as 'Price (VAT 12%)', Unit_Measure as 'Measure' " & _
+            FillListView(ExecuteSQLQuery("SELECT Item_ID as 'ID', TBL_Category_Item_File.Catg_ID as 'Category ID', Group_Name AS 'Group' ,replace(Replace(Item_Name,'$.$',''''),'$..$',',') as 'Name', Item_Description as 'Description / Item Number', Item_Barcode as 'Barcode', Item_Reorder_Point as 'Reorder Point', Item_Org_Price as 'Price', Item_Price as 'Price (VAT 12%)', Unit_Measure as 'Measure' " & _
                                          "FROM TBL_Category_Item_File " & _
                                          "INNER JOIN TBL_Category_File ON TBL_Category_Item_File.Catg_ID = TBL_Category_File.Catg_ID " & _
                                          "INNER JOIN TBL_Group ON TBL_Category_File.Group_ID = TBL_Group.Group_ID " & _

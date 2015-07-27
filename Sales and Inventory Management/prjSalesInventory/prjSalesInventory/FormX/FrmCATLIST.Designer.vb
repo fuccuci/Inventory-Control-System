@@ -22,28 +22,28 @@ Partial Class FrmCatList
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmCatList))
-        Me.Panel1 = New System.Windows.Forms.Panel
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
-        Me.grpCat = New System.Windows.Forms.GroupBox
-        Me.cmdcancel = New System.Windows.Forms.Button
-        Me.CmdSearch = New System.Windows.Forms.Button
-        Me.txtcatname = New System.Windows.Forms.TextBox
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.lstCat = New System.Windows.Forms.ListView
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.grpCat = New System.Windows.Forms.GroupBox()
+        Me.cmdcancel = New System.Windows.Forms.Button()
+        Me.CmdSearch = New System.Windows.Forms.Button()
+        Me.txtcatname = New System.Windows.Forms.TextBox()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.lstCat = New System.Windows.Forms.ListView()
         Me.ImageList1 = New System.Windows.Forms.ImageList(Me.components)
-        Me.RBCat = New System.Windows.Forms.RadioButton
-        Me.RBALL = New System.Windows.Forms.RadioButton
-        Me.rbcatitemlist = New System.Windows.Forms.RadioButton
-        Me.lstCategory = New System.Windows.Forms.ListView
-        Me.lstItems = New System.Windows.Forms.ListView
-        Me.grpcatitem = New System.Windows.Forms.GroupBox
-        Me.PictureBox2 = New System.Windows.Forms.PictureBox
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.RBGroup = New System.Windows.Forms.RadioButton
+        Me.RBCat = New System.Windows.Forms.RadioButton()
+        Me.RBALL = New System.Windows.Forms.RadioButton()
+        Me.rbcatitemlist = New System.Windows.Forms.RadioButton()
+        Me.lstCategory = New System.Windows.Forms.ListView()
+        Me.lstItems = New System.Windows.Forms.ListView()
+        Me.grpcatitem = New System.Windows.Forms.GroupBox()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.RBGroup = New System.Windows.Forms.RadioButton()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.grpCat.SuspendLayout()
@@ -265,10 +265,10 @@ Partial Class FrmCatList
         Me.RBGroup.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RBGroup.Location = New System.Drawing.Point(281, 24)
         Me.RBGroup.Name = "RBGroup"
-        Me.RBGroup.Size = New System.Drawing.Size(75, 17)
+        Me.RBGroup.Size = New System.Drawing.Size(76, 17)
         Me.RBGroup.TabIndex = 6
         Me.RBGroup.TabStop = True
-        Me.RBGroup.Text = "By Brand"
+        Me.RBGroup.Text = "By Group"
         Me.RBGroup.UseVisualStyleBackColor = True
         '
         'FrmCatList

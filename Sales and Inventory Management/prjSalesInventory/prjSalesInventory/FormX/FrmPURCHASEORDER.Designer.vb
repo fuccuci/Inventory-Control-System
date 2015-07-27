@@ -22,27 +22,27 @@ Partial Class FrmPURCHASEORDER
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmPURCHASEORDER))
-        Me.Panel1 = New System.Windows.Forms.Panel
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.rbreceive = New System.Windows.Forms.RadioButton
-        Me.rbpurchase = New System.Windows.Forms.RadioButton
-        Me.listorder = New System.Windows.Forms.ListView
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.rbreceive = New System.Windows.Forms.RadioButton()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.rbpurchase = New System.Windows.Forms.RadioButton()
+        Me.listorder = New System.Windows.Forms.ListView()
         Me.ImageList1 = New System.Windows.Forms.ImageList(Me.components)
-        Me.dtpurchased = New System.Windows.Forms.DateTimePicker
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.grpCat = New System.Windows.Forms.GroupBox
-        Me.cmdcancel = New System.Windows.Forms.Button
-        Me.CmdSearch = New System.Windows.Forms.Button
-        Me.txtname = New System.Windows.Forms.TextBox
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.Label7 = New System.Windows.Forms.Label
+        Me.dtpurchased = New System.Windows.Forms.DateTimePicker()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.grpCat = New System.Windows.Forms.GroupBox()
+        Me.cmdcancel = New System.Windows.Forms.Button()
+        Me.CmdSearch = New System.Windows.Forms.Button()
+        Me.txtname = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
@@ -76,9 +76,9 @@ Partial Class FrmPURCHASEORDER
         Me.Label1.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label1.Location = New System.Drawing.Point(50, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(351, 23)
+        Me.Label1.Size = New System.Drawing.Size(175, 23)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "Purchasing Order and Receive Form"
+        Me.Label1.Text = "Purchasing Order"
         '
         'PictureBox1
         '
@@ -104,6 +104,16 @@ Partial Class FrmPURCHASEORDER
         Me.GroupBox1.TabIndex = 1
         Me.GroupBox1.TabStop = False
         '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(179, 16)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(149, 13)
+        Me.Label4.TabIndex = 9
+        Me.Label4.Text = "Black for Not Approved Order"
+        '
         'rbreceive
         '
         Me.rbreceive.AutoSize = True
@@ -115,6 +125,27 @@ Partial Class FrmPURCHASEORDER
         Me.rbreceive.TabStop = True
         Me.rbreceive.Text = "Receive Order"
         Me.rbreceive.UseVisualStyleBackColor = True
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.ForeColor = System.Drawing.Color.Red
+        Me.Label6.Location = New System.Drawing.Point(69, 16)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(126, 13)
+        Me.Label6.TabIndex = 8
+        Me.Label6.Text = "Red For Approved Order"
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label7.Location = New System.Drawing.Point(9, 16)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(54, 13)
+        Me.Label7.TabIndex = 7
+        Me.Label7.Text = "Legend :"
         '
         'rbpurchase
         '
@@ -223,37 +254,6 @@ Partial Class FrmPURCHASEORDER
         Me.Label5.Size = New System.Drawing.Size(52, 13)
         Me.Label5.TabIndex = 0
         Me.Label5.Text = "Search :"
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(179, 16)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(149, 13)
-        Me.Label4.TabIndex = 9
-        Me.Label4.Text = "Black for Not Approved Order"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.ForeColor = System.Drawing.Color.Red
-        Me.Label6.Location = New System.Drawing.Point(69, 16)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(126, 13)
-        Me.Label6.TabIndex = 8
-        Me.Label6.Text = "Red For Approved Order"
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(9, 16)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(54, 13)
-        Me.Label7.TabIndex = 7
-        Me.Label7.Text = "Legend :"
         '
         'FrmPURCHASEORDER
         '

@@ -22,50 +22,50 @@ Partial Class FrmCatADD
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmCatADD))
-        Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.cmbGroup = New System.Windows.Forms.ComboBox
-        Me.Label11 = New System.Windows.Forms.Label
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.cmbGroup = New System.Windows.Forms.ComboBox()
+        Me.Label11 = New System.Windows.Forms.Label()
         Me.ImageList1 = New System.Windows.Forms.ImageList(Me.components)
-        Me.grpCat = New System.Windows.Forms.GroupBox
-        Me.cmdcancel = New System.Windows.Forms.Button
-        Me.cmdsave = New System.Windows.Forms.Button
-        Me.txtdesc = New System.Windows.Forms.TextBox
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.txtname = New System.Windows.Forms.TextBox
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.txtid = New System.Windows.Forms.TextBox
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.cmdedit2 = New System.Windows.Forms.Button
-        Me.cmdadd2 = New System.Windows.Forms.Button
-        Me.lstitems = New System.Windows.Forms.ListView
-        Me.GroupBox3 = New System.Windows.Forms.GroupBox
-        Me.cmbCategory = New System.Windows.Forms.ComboBox
-        Me.Label12 = New System.Windows.Forms.Label
-        Me.cmdcancel2 = New System.Windows.Forms.Button
-        Me.cmdSave2 = New System.Windows.Forms.Button
-        Me.cmbUnit = New System.Windows.Forms.ComboBox
-        Me.Label9 = New System.Windows.Forms.Label
-        Me.txtItemprice = New System.Windows.Forms.TextBox
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.txtItemreorder = New System.Windows.Forms.TextBox
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtItemBarcode = New System.Windows.Forms.TextBox
-        Me.txtItemDesc = New System.Windows.Forms.TextBox
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.txtItemName = New System.Windows.Forms.TextBox
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.txtitemID = New System.Windows.Forms.TextBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.Label10 = New System.Windows.Forms.Label
-        Me.GroupBox4 = New System.Windows.Forms.GroupBox
-        Me.cmdEdit = New System.Windows.Forms.Button
-        Me.cmdadd = New System.Windows.Forms.Button
-        Me.lstcat = New System.Windows.Forms.ListView
-        Me.cmdclose = New System.Windows.Forms.Button
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
+        Me.grpCat = New System.Windows.Forms.GroupBox()
+        Me.cmdcancel = New System.Windows.Forms.Button()
+        Me.cmdsave = New System.Windows.Forms.Button()
+        Me.txtdesc = New System.Windows.Forms.TextBox()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtname = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.txtid = New System.Windows.Forms.TextBox()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.cmdedit2 = New System.Windows.Forms.Button()
+        Me.cmdadd2 = New System.Windows.Forms.Button()
+        Me.lstitems = New System.Windows.Forms.ListView()
+        Me.GroupBox3 = New System.Windows.Forms.GroupBox()
+        Me.cmbCategory = New System.Windows.Forms.ComboBox()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.cmdcancel2 = New System.Windows.Forms.Button()
+        Me.cmdSave2 = New System.Windows.Forms.Button()
+        Me.cmbUnit = New System.Windows.Forms.ComboBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtItemprice = New System.Windows.Forms.TextBox()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.txtItemreorder = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtItemBarcode = New System.Windows.Forms.TextBox()
+        Me.txtItemDesc = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtItemName = New System.Windows.Forms.TextBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.txtitemID = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.GroupBox4 = New System.Windows.Forms.GroupBox()
+        Me.cmdEdit = New System.Windows.Forms.Button()
+        Me.cmdadd = New System.Windows.Forms.Button()
+        Me.lstcat = New System.Windows.Forms.ListView()
+        Me.cmdclose = New System.Windows.Forms.Button()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.GroupBox2.SuspendLayout()
         Me.grpCat.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
@@ -101,9 +101,9 @@ Partial Class FrmCatADD
         Me.Label11.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label11.Location = New System.Drawing.Point(6, 17)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(63, 13)
+        Me.Label11.Size = New System.Drawing.Size(64, 13)
         Me.Label11.TabIndex = 5
-        Me.Label11.Text = "By Brand :"
+        Me.Label11.Text = "By Group :"
         '
         'ImageList1
         '

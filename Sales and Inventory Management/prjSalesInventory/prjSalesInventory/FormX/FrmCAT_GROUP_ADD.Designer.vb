@@ -23,16 +23,16 @@ Partial Class FrmCAT_GROUP_ADD
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmCAT_GROUP_ADD))
-        Me.Panel1 = New System.Windows.Forms.Panel
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.txtgname = New System.Windows.Forms.TextBox
-        Me.txtgdesc = New System.Windows.Forms.TextBox
-        Me.cmdsave = New System.Windows.Forms.Button
-        Me.cmdclose = New System.Windows.Forms.Button
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.txtgname = New System.Windows.Forms.TextBox()
+        Me.txtgdesc = New System.Windows.Forms.TextBox()
+        Me.cmdsave = New System.Windows.Forms.Button()
+        Me.cmdclose = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -52,9 +52,9 @@ Partial Class FrmCAT_GROUP_ADD
         Me.Label7.AutoSize = True
         Me.Label7.Location = New System.Drawing.Point(53, 22)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(138, 13)
+        Me.Label7.Size = New System.Drawing.Size(140, 13)
         Me.Label7.TabIndex = 2
-        Me.Label7.Text = "Add, Edit Brand Description"
+        Me.Label7.Text = "Add, Edit Family Description"
         '
         'Label6
         '
@@ -63,9 +63,9 @@ Partial Class FrmCAT_GROUP_ADD
         Me.Label6.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label6.Location = New System.Drawing.Point(51, 3)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(154, 19)
+        Me.Label6.Size = New System.Drawing.Size(159, 19)
         Me.Label6.TabIndex = 1
-        Me.Label6.Text = "Brand Description"
+        Me.Label6.Text = "Family Description"
         '
         'PictureBox1
         '
@@ -83,9 +83,9 @@ Partial Class FrmCAT_GROUP_ADD
         Me.Label1.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(1, 53)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(81, 13)
+        Me.Label1.Size = New System.Drawing.Size(85, 13)
         Me.Label1.TabIndex = 9
-        Me.Label1.Text = "Brand Name :"
+        Me.Label1.Text = "Family Name :"
         '
         'Label2
         '
@@ -93,9 +93,9 @@ Partial Class FrmCAT_GROUP_ADD
         Me.Label2.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(1, 77)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(113, 13)
+        Me.Label2.Size = New System.Drawing.Size(117, 13)
         Me.Label2.TabIndex = 10
-        Me.Label2.Text = "Brand Description :"
+        Me.Label2.Text = "Family Description :"
         '
         'txtgname
         '

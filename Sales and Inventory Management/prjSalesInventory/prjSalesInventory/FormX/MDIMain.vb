@@ -510,7 +510,7 @@ Public Class MDIMain
         'End If
     End Sub
 
-    Private Sub cmdDefective_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdDefective.Click
+    Private Sub cmdDefective_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         'If x_Access(xUser_Access) Then
         With lstShortCut.Items
             If Not FrmDEFFECTIVE_RETURN_STOCKS.IsHandleCreated Then
@@ -715,7 +715,7 @@ Public Class MDIMain
         'End If
     End Sub
 
- 
+
     Private Sub cmdDelete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdDelete.Click
         FormDelete(ActiveMdiChild.Name)
     End Sub
@@ -767,7 +767,7 @@ Public Class MDIMain
         lstShortCut.Items.Clear()
         sqlSTR = "UPDATE TBL_Audit_Log SET LOGOUT ='" & TimeOfDay & "' WHERE User_ID =" & xUser_ID & " AND LOG_ID=" & LOGID
         ExecuteSQLQuery(sqlSTR)
-         LinkMaintain.Enabled = False
+        LinkMaintain.Enabled = False
         LinkPurchasing.Enabled = False
         LinkSales.Enabled = False
         'Maintenance
@@ -781,7 +781,7 @@ Public Class MDIMain
         cmdStockMonitoring.Enabled = False
         cmdPhysical.Enabled = False
         cmdProductReorder.Enabled = False
-        cmdDefective.Enabled = False
+        cmdReceipt.Enabled = False
         'Sales
         cmdCustomerOrder.Enabled = False
         cmdCashiering.Enabled = False
@@ -812,7 +812,7 @@ Public Class MDIMain
             cmdStockMonitoring.Enabled = True
             cmdPhysical.Enabled = True
             cmdProductReorder.Enabled = True
-            cmdDefective.Enabled = True
+            cmdReceipt.Enabled = True
             'Sales
             cmdCustomerOrder.Enabled = True
             cmdCashiering.Enabled = True
@@ -829,7 +829,7 @@ Public Class MDIMain
             cmdStockMonitoring.Enabled = False
             cmdPhysical.Enabled = False
             cmdProductReorder.Enabled = False
-            cmdDefective.Enabled = False
+            cmdReceipt.Enabled = False
             'Sales
             cmdCustomerOrder.Enabled = False
             cmdCashiering.Enabled = True
@@ -851,7 +851,7 @@ Public Class MDIMain
             cmdStockMonitoring.Enabled = True
             cmdPhysical.Enabled = True
             cmdProductReorder.Enabled = True
-            cmdDefective.Enabled = True
+            cmdReceipt.Enabled = True
             'Sales
             cmdCustomerOrder.Enabled = False
             cmdCashiering.Enabled = False
@@ -872,7 +872,7 @@ Public Class MDIMain
             cmdStockMonitoring.Enabled = True
             cmdPhysical.Enabled = True
             cmdProductReorder.Enabled = True
-            cmdDefective.Enabled = True
+            cmdReceipt.Enabled = True
             'Sales
             cmdCustomerOrder.Enabled = True
             cmdCashiering.Enabled = False
@@ -957,5 +957,19 @@ Public Class MDIMain
 
     Private Sub AboutToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AboutToolStripMenuItem.Click
         FrmAbout.ShowDialog()
+    End Sub
+
+    Private Sub cmdReceipt_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdReceipt.Click
+        'If x_Access(xUser_Access) Then
+        With lstShortCut.Items
+            If Not FrmPURCHASEORDER_RECEIPT.IsHandleCreated Then
+                .Add("Purchase Order Receipt", 15)
+            End If
+        End With
+        FrmPURCHASEORDER_RECEIPT.MdiParent = Me
+        FrmPURCHASEORDER_RECEIPT.Width = Me.Width
+        FrmPURCHASEORDER_RECEIPT.Height = Me.Height
+        FrmPURCHASEORDER_RECEIPT.Show()
+        'End If
     End Sub
 End Class
