@@ -341,6 +341,12 @@
     <Compile Include="FormX\FrmPURCHASEORDER_RECEIPT_ADD.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER_RECEIPT_DATA.Designer.vb">
+      <DependentUpon>FrmPURCHASEORDER_RECEIPT_DATA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormX\FrmPURCHASEORDER_RECEIPT_DATA.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormX\FrmREPORTSDated.Designer.vb">
       <DependentUpon>FrmREPORTSDated.vb</DependentUpon>
     </Compile>
@@ -833,6 +839,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormX\FrmPURCHASEORDER_RECEIPT_ADD.resx">
       <DependentUpon>FrmPURCHASEORDER_RECEIPT_ADD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormX\FrmPURCHASEORDER_RECEIPT_DATA.resx">
+      <DependentUpon>FrmPURCHASEORDER_RECEIPT_DATA.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormX\FrmREPORTSDated.resx">
       <DependentUpon>FrmREPORTSDated.vb</DependentUpon>

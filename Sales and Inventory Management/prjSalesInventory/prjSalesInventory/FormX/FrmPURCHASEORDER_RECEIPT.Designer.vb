@@ -59,7 +59,7 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.cboWarehouse.FormattingEnabled = True
         Me.cboWarehouse.Location = New System.Drawing.Point(107, 39)
         Me.cboWarehouse.Name = "cboWarehouse"
-        Me.cboWarehouse.Size = New System.Drawing.Size(212, 21)
+        Me.cboWarehouse.Size = New System.Drawing.Size(252, 21)
         Me.cboWarehouse.TabIndex = 0
         '
         'lbWarehouse
@@ -85,7 +85,7 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.ComboBox1.FormattingEnabled = True
         Me.ComboBox1.Location = New System.Drawing.Point(107, 66)
         Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(212, 21)
+        Me.ComboBox1.Size = New System.Drawing.Size(252, 21)
         Me.ComboBox1.TabIndex = 3
         '
         'Label2
@@ -100,7 +100,7 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         '
         Me.TextBox1.Location = New System.Drawing.Point(107, 94)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(212, 20)
+        Me.TextBox1.Size = New System.Drawing.Size(252, 20)
         Me.TextBox1.TabIndex = 6
         '
         'GroupBox1
@@ -115,16 +115,16 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         Me.GroupBox1.Controls.Add(Me.Label4)
         Me.GroupBox1.Controls.Add(Me.dtfrompodate)
         Me.GroupBox1.Controls.Add(Me.Label3)
-        Me.GroupBox1.Location = New System.Drawing.Point(325, 32)
+        Me.GroupBox1.Location = New System.Drawing.Point(365, 32)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(546, 81)
+        Me.GroupBox1.Size = New System.Drawing.Size(506, 81)
         Me.GroupBox1.TabIndex = 7
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Date Range"
         '
         'chkreceivedateall
         '
-        Me.chkreceivedateall.Location = New System.Drawing.Point(504, 47)
+        Me.chkreceivedateall.Location = New System.Drawing.Point(459, 47)
         Me.chkreceivedateall.Name = "chkreceivedateall"
         Me.chkreceivedateall.Size = New System.Drawing.Size(37, 14)
         Me.chkreceivedateall.TabIndex = 15
@@ -133,7 +133,7 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         '
         'chkpodateall
         '
-        Me.chkpodateall.Location = New System.Drawing.Point(504, 22)
+        Me.chkpodateall.Location = New System.Drawing.Point(459, 22)
         Me.chkpodateall.Name = "chkpodateall"
         Me.chkpodateall.Size = New System.Drawing.Size(37, 14)
         Me.chkpodateall.TabIndex = 14
@@ -143,10 +143,11 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         'DateTimePicker1
         '
         Me.DateTimePicker1.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.DateTimePicker1.CustomFormat = ""
+        Me.DateTimePicker1.CustomFormat = "dd/MMM/yyyy"
+        Me.DateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom
         Me.DateTimePicker1.Location = New System.Drawing.Point(305, 45)
         Me.DateTimePicker1.Name = "DateTimePicker1"
-        Me.DateTimePicker1.Size = New System.Drawing.Size(194, 20)
+        Me.DateTimePicker1.Size = New System.Drawing.Size(142, 20)
         Me.DateTimePicker1.TabIndex = 13
         '
         'Label5
@@ -161,16 +162,17 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         'DateTimePicker2
         '
         Me.DateTimePicker2.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.DateTimePicker2.CustomFormat = ""
-        Me.DateTimePicker2.Location = New System.Drawing.Point(83, 45)
+        Me.DateTimePicker2.CustomFormat = "dd/MMM/yyyy"
+        Me.DateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Custom
+        Me.DateTimePicker2.Location = New System.Drawing.Point(134, 45)
         Me.DateTimePicker2.Name = "DateTimePicker2"
-        Me.DateTimePicker2.Size = New System.Drawing.Size(194, 20)
+        Me.DateTimePicker2.Size = New System.Drawing.Size(142, 20)
         Me.DateTimePicker2.TabIndex = 11
         '
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(6, 47)
+        Me.Label6.Location = New System.Drawing.Point(57, 47)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(76, 13)
         Me.Label6.TabIndex = 10
@@ -179,10 +181,11 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         'dttopodate
         '
         Me.dttopodate.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dttopodate.CustomFormat = ""
+        Me.dttopodate.CustomFormat = "dd/MMM/yyyy"
+        Me.dttopodate.Format = System.Windows.Forms.DateTimePickerFormat.Custom
         Me.dttopodate.Location = New System.Drawing.Point(305, 19)
         Me.dttopodate.Name = "dttopodate"
-        Me.dttopodate.Size = New System.Drawing.Size(194, 20)
+        Me.dttopodate.Size = New System.Drawing.Size(142, 20)
         Me.dttopodate.TabIndex = 9
         '
         'Label4
@@ -197,16 +200,17 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         'dtfrompodate
         '
         Me.dtfrompodate.CalendarFont = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dtfrompodate.CustomFormat = ""
-        Me.dtfrompodate.Location = New System.Drawing.Point(83, 19)
+        Me.dtfrompodate.CustomFormat = "dd/MMM/yyyy"
+        Me.dtfrompodate.Format = System.Windows.Forms.DateTimePickerFormat.Custom
+        Me.dtfrompodate.Location = New System.Drawing.Point(134, 19)
         Me.dtfrompodate.Name = "dtfrompodate"
-        Me.dtfrompodate.Size = New System.Drawing.Size(194, 20)
+        Me.dtfrompodate.Size = New System.Drawing.Size(142, 20)
         Me.dtfrompodate.TabIndex = 7
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(6, 21)
+        Me.Label3.Location = New System.Drawing.Point(57, 21)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(51, 13)
         Me.Label3.TabIndex = 6
@@ -272,7 +276,7 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         '
         'lbSumPOAmt
         '
-        Me.lbSumPOAmt.Location = New System.Drawing.Point(521, 122)
+        Me.lbSumPOAmt.Location = New System.Drawing.Point(520, 122)
         Me.lbSumPOAmt.Name = "lbSumPOAmt"
         Me.lbSumPOAmt.Size = New System.Drawing.Size(184, 18)
         Me.lbSumPOAmt.TabIndex = 19
@@ -280,10 +284,9 @@ Partial Class FrmPURCHASEORDER_RECEIPT
         '
         'Label7
         '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(12, 122)
+        Me.Label7.Location = New System.Drawing.Point(9, 122)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(114, 13)
+        Me.Label7.Size = New System.Drawing.Size(158, 18)
         Me.Label7.TabIndex = 21
         Me.Label7.Text = "Received PO By Items"
         '

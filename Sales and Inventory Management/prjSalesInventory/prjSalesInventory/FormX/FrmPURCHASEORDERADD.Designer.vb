@@ -23,34 +23,34 @@ Partial Class FrmPURCHASEORDERADD
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmPURCHASEORDERADD))
-        Me.Panel1 = New System.Windows.Forms.Panel
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.cmdEdit = New System.Windows.Forms.Button
-        Me.txtdeliver = New System.Windows.Forms.TextBox
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.dtpurchase = New System.Windows.Forms.DateTimePicker
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtadd = New System.Windows.Forms.TextBox
-        Me.cmbsupplier = New System.Windows.Forms.ComboBox
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.lstitems = New System.Windows.Forms.ListView
-        Me.colID = New System.Windows.Forms.ColumnHeader
-        Me.colD = New System.Windows.Forms.ColumnHeader
-        Me.ColName = New System.Windows.Forms.ColumnHeader
-        Me.ColDesc = New System.Windows.Forms.ColumnHeader
-        Me.ColQTY = New System.Windows.Forms.ColumnHeader
-        Me.cmddel = New System.Windows.Forms.Button
-        Me.cmdadd = New System.Windows.Forms.Button
-        Me.chckapproved = New System.Windows.Forms.CheckBox
-        Me.txtapproved = New System.Windows.Forms.TextBox
-        Me.cmdSave = New System.Windows.Forms.Button
-        Me.cmdCancel = New System.Windows.Forms.Button
-        Me.dtapprove = New System.Windows.Forms.DateTimePicker
-        Me.Label7 = New System.Windows.Forms.Label
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.cmdEdit = New System.Windows.Forms.Button()
+        Me.txtdeliver = New System.Windows.Forms.TextBox()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.dtpurchase = New System.Windows.Forms.DateTimePicker()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtadd = New System.Windows.Forms.TextBox()
+        Me.cmbsupplier = New System.Windows.Forms.ComboBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.lstitems = New System.Windows.Forms.ListView()
+        Me.colID = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.colD = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.ColName = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.ColDesc = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.ColQTY = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.cmddel = New System.Windows.Forms.Button()
+        Me.cmdadd = New System.Windows.Forms.Button()
+        Me.chckapproved = New System.Windows.Forms.CheckBox()
+        Me.txtapproved = New System.Windows.Forms.TextBox()
+        Me.cmdSave = New System.Windows.Forms.Button()
+        Me.cmdCancel = New System.Windows.Forms.Button()
+        Me.dtapprove = New System.Windows.Forms.DateTimePicker()
+        Me.Label7 = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()

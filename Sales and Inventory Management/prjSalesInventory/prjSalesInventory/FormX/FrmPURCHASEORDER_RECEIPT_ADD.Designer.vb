@@ -24,28 +24,32 @@ Partial Class FrmPURCHASEORDER_RECEIPT_ADD
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmPURCHASEORDER_RECEIPT_ADD))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.cboPO = New System.Windows.Forms.ComboBox()
+        Me.txtNotes = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.dtReceiveDate = New System.Windows.Forms.DateTimePicker()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.lstitems = New System.Windows.Forms.ListView()
         Me.colID = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.colD = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ColName = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ColDesc = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.ColQTY = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.ColReceived = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.cboSupplier = New System.Windows.Forms.ComboBox()
+        Me.lbWarehouse = New System.Windows.Forms.Label()
+        Me.cboWarehouse = New System.Windows.Forms.ComboBox()
+        Me.cmdCancel = New System.Windows.Forms.Button()
+        Me.cmdSave = New System.Windows.Forms.Button()
+        Me.cmdEdit = New System.Windows.Forms.Button()
+        Me.cmddel = New System.Windows.Forms.Button()
+        Me.cmdadd = New System.Windows.Forms.Button()
         Me.Panel2 = New System.Windows.Forms.Panel()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
-        Me.cmdEdit = New System.Windows.Forms.Button()
-        Me.cmddel = New System.Windows.Forms.Button()
-        Me.cmdadd = New System.Windows.Forms.Button()
-        Me.cmdCancel = New System.Windows.Forms.Button()
-        Me.cmdSave = New System.Windows.Forms.Button()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.ComboBox1 = New System.Windows.Forms.ComboBox()
-        Me.lbWarehouse = New System.Windows.Forms.Label()
-        Me.cboWarehouse = New System.Windows.Forms.ComboBox()
-        Me.dtapprove = New System.Windows.Forms.DateTimePicker()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.ColReceived = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         Me.GroupBox1.SuspendLayout()
         Me.Panel2.SuspendLayout()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -53,11 +57,15 @@ Partial Class FrmPURCHASEORDER_RECEIPT_ADD
         '
         'GroupBox1
         '
+        Me.GroupBox1.Controls.Add(Me.Label2)
+        Me.GroupBox1.Controls.Add(Me.cboPO)
+        Me.GroupBox1.Controls.Add(Me.txtNotes)
+        Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Controls.Add(Me.Label7)
-        Me.GroupBox1.Controls.Add(Me.dtapprove)
+        Me.GroupBox1.Controls.Add(Me.dtReceiveDate)
         Me.GroupBox1.Controls.Add(Me.Label5)
         Me.GroupBox1.Controls.Add(Me.lstitems)
-        Me.GroupBox1.Controls.Add(Me.ComboBox1)
+        Me.GroupBox1.Controls.Add(Me.cboSupplier)
         Me.GroupBox1.Controls.Add(Me.lbWarehouse)
         Me.GroupBox1.Controls.Add(Me.cboWarehouse)
         Me.GroupBox1.Controls.Add(Me.cmdCancel)
@@ -70,6 +78,66 @@ Partial Class FrmPURCHASEORDER_RECEIPT_ADD
         Me.GroupBox1.Size = New System.Drawing.Size(915, 372)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(336, 40)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(58, 13)
+        Me.Label2.TabIndex = 67
+        Me.Label2.Text = "Select PO:"
+        '
+        'cboPO
+        '
+        Me.cboPO.FormattingEnabled = True
+        Me.cboPO.Location = New System.Drawing.Point(426, 35)
+        Me.cboPO.Name = "cboPO"
+        Me.cboPO.Size = New System.Drawing.Size(141, 21)
+        Me.cboPO.TabIndex = 66
+        '
+        'txtNotes
+        '
+        Me.txtNotes.Location = New System.Drawing.Point(630, 12)
+        Me.txtNotes.Multiline = True
+        Me.txtNotes.Name = "txtNotes"
+        Me.txtNotes.Size = New System.Drawing.Size(276, 43)
+        Me.txtNotes.TabIndex = 65
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(586, 12)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(38, 13)
+        Me.Label1.TabIndex = 64
+        Me.Label1.Text = "Notes:"
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(335, 15)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(85, 13)
+        Me.Label7.TabIndex = 63
+        Me.Label7.Text = "Received Date :"
+        '
+        'dtReceiveDate
+        '
+        Me.dtReceiveDate.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dtReceiveDate.Location = New System.Drawing.Point(426, 12)
+        Me.dtReceiveDate.Name = "dtReceiveDate"
+        Me.dtReceiveDate.Size = New System.Drawing.Size(141, 20)
+        Me.dtReceiveDate.TabIndex = 62
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(10, 15)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(81, 13)
+        Me.Label5.TabIndex = 61
+        Me.Label5.Text = "Select Supplier:"
         '
         'lstitems
         '
@@ -106,6 +174,82 @@ Partial Class FrmPURCHASEORDER_RECEIPT_ADD
         '
         Me.ColQTY.Text = "QTY"
         Me.ColQTY.Width = 68
+        '
+        'ColReceived
+        '
+        Me.ColReceived.Text = "RECEIVED"
+        Me.ColReceived.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.ColReceived.Width = 70
+        '
+        'cboSupplier
+        '
+        Me.cboSupplier.FormattingEnabled = True
+        Me.cboSupplier.Location = New System.Drawing.Point(117, 12)
+        Me.cboSupplier.Name = "cboSupplier"
+        Me.cboSupplier.Size = New System.Drawing.Size(212, 21)
+        Me.cboSupplier.TabIndex = 60
+        '
+        'lbWarehouse
+        '
+        Me.lbWarehouse.AutoSize = True
+        Me.lbWarehouse.Location = New System.Drawing.Point(10, 42)
+        Me.lbWarehouse.Name = "lbWarehouse"
+        Me.lbWarehouse.Size = New System.Drawing.Size(98, 13)
+        Me.lbWarehouse.TabIndex = 59
+        Me.lbWarehouse.Text = "Select Warehouse:"
+        '
+        'cboWarehouse
+        '
+        Me.cboWarehouse.FormattingEnabled = True
+        Me.cboWarehouse.Location = New System.Drawing.Point(117, 37)
+        Me.cboWarehouse.Name = "cboWarehouse"
+        Me.cboWarehouse.Size = New System.Drawing.Size(212, 21)
+        Me.cboWarehouse.TabIndex = 58
+        '
+        'cmdCancel
+        '
+        Me.cmdCancel.Location = New System.Drawing.Point(846, 341)
+        Me.cmdCancel.Name = "cmdCancel"
+        Me.cmdCancel.Size = New System.Drawing.Size(60, 25)
+        Me.cmdCancel.TabIndex = 57
+        Me.cmdCancel.Text = "&Cancel"
+        Me.cmdCancel.UseVisualStyleBackColor = True
+        '
+        'cmdSave
+        '
+        Me.cmdSave.Location = New System.Drawing.Point(780, 341)
+        Me.cmdSave.Name = "cmdSave"
+        Me.cmdSave.Size = New System.Drawing.Size(60, 25)
+        Me.cmdSave.TabIndex = 56
+        Me.cmdSave.Text = "&Save"
+        Me.cmdSave.UseVisualStyleBackColor = True
+        '
+        'cmdEdit
+        '
+        Me.cmdEdit.Location = New System.Drawing.Point(62, 341)
+        Me.cmdEdit.Name = "cmdEdit"
+        Me.cmdEdit.Size = New System.Drawing.Size(55, 25)
+        Me.cmdEdit.TabIndex = 55
+        Me.cmdEdit.Text = "&Edit"
+        Me.cmdEdit.UseVisualStyleBackColor = True
+        '
+        'cmddel
+        '
+        Me.cmddel.Location = New System.Drawing.Point(117, 341)
+        Me.cmddel.Name = "cmddel"
+        Me.cmddel.Size = New System.Drawing.Size(55, 25)
+        Me.cmddel.TabIndex = 54
+        Me.cmddel.Text = "&Delete"
+        Me.cmddel.UseVisualStyleBackColor = True
+        '
+        'cmdadd
+        '
+        Me.cmdadd.Location = New System.Drawing.Point(7, 341)
+        Me.cmdadd.Name = "cmdadd"
+        Me.cmdadd.Size = New System.Drawing.Size(55, 25)
+        Me.cmdadd.TabIndex = 53
+        Me.cmdadd.Text = "&Add"
+        Me.cmdadd.UseVisualStyleBackColor = True
         '
         'Panel2
         '
@@ -147,108 +291,6 @@ Partial Class FrmPURCHASEORDER_RECEIPT_ADD
         Me.PictureBox2.TabIndex = 0
         Me.PictureBox2.TabStop = False
         '
-        'cmdEdit
-        '
-        Me.cmdEdit.Location = New System.Drawing.Point(62, 341)
-        Me.cmdEdit.Name = "cmdEdit"
-        Me.cmdEdit.Size = New System.Drawing.Size(55, 25)
-        Me.cmdEdit.TabIndex = 55
-        Me.cmdEdit.Text = "&Edit"
-        Me.cmdEdit.UseVisualStyleBackColor = True
-        '
-        'cmddel
-        '
-        Me.cmddel.Location = New System.Drawing.Point(117, 341)
-        Me.cmddel.Name = "cmddel"
-        Me.cmddel.Size = New System.Drawing.Size(55, 25)
-        Me.cmddel.TabIndex = 54
-        Me.cmddel.Text = "&Delete"
-        Me.cmddel.UseVisualStyleBackColor = True
-        '
-        'cmdadd
-        '
-        Me.cmdadd.Location = New System.Drawing.Point(7, 341)
-        Me.cmdadd.Name = "cmdadd"
-        Me.cmdadd.Size = New System.Drawing.Size(55, 25)
-        Me.cmdadd.TabIndex = 53
-        Me.cmdadd.Text = "&Add"
-        Me.cmdadd.UseVisualStyleBackColor = True
-        '
-        'cmdCancel
-        '
-        Me.cmdCancel.Location = New System.Drawing.Point(846, 341)
-        Me.cmdCancel.Name = "cmdCancel"
-        Me.cmdCancel.Size = New System.Drawing.Size(60, 25)
-        Me.cmdCancel.TabIndex = 57
-        Me.cmdCancel.Text = "&Cancel"
-        Me.cmdCancel.UseVisualStyleBackColor = True
-        '
-        'cmdSave
-        '
-        Me.cmdSave.Location = New System.Drawing.Point(780, 341)
-        Me.cmdSave.Name = "cmdSave"
-        Me.cmdSave.Size = New System.Drawing.Size(60, 25)
-        Me.cmdSave.TabIndex = 56
-        Me.cmdSave.Text = "&Save"
-        Me.cmdSave.UseVisualStyleBackColor = True
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(10, 15)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(81, 13)
-        Me.Label5.TabIndex = 61
-        Me.Label5.Text = "Select Supplier:"
-        '
-        'ComboBox1
-        '
-        Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Location = New System.Drawing.Point(117, 12)
-        Me.ComboBox1.Name = "ComboBox1"
-        Me.ComboBox1.Size = New System.Drawing.Size(212, 21)
-        Me.ComboBox1.TabIndex = 60
-        '
-        'lbWarehouse
-        '
-        Me.lbWarehouse.AutoSize = True
-        Me.lbWarehouse.Location = New System.Drawing.Point(10, 42)
-        Me.lbWarehouse.Name = "lbWarehouse"
-        Me.lbWarehouse.Size = New System.Drawing.Size(98, 13)
-        Me.lbWarehouse.TabIndex = 59
-        Me.lbWarehouse.Text = "Select Warehouse:"
-        '
-        'cboWarehouse
-        '
-        Me.cboWarehouse.FormattingEnabled = True
-        Me.cboWarehouse.Location = New System.Drawing.Point(117, 39)
-        Me.cboWarehouse.Name = "cboWarehouse"
-        Me.cboWarehouse.Size = New System.Drawing.Size(212, 21)
-        Me.cboWarehouse.TabIndex = 58
-        '
-        'dtapprove
-        '
-        Me.dtapprove.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.dtapprove.Location = New System.Drawing.Point(426, 12)
-        Me.dtapprove.Name = "dtapprove"
-        Me.dtapprove.Size = New System.Drawing.Size(94, 20)
-        Me.dtapprove.TabIndex = 62
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(335, 15)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(85, 13)
-        Me.Label7.TabIndex = 63
-        Me.Label7.Text = "Received Date :"
-        '
-        'ColReceived
-        '
-        Me.ColReceived.Text = "RECEIVED"
-        Me.ColReceived.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.ColReceived.Width = 70
-        '
         'FrmPURCHASEORDER_RECEIPT_ADD
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -257,6 +299,7 @@ Partial Class FrmPURCHASEORDER_RECEIPT_ADD
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "FrmPURCHASEORDER_RECEIPT_ADD"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "FrmPURCHASEORDER_RECEIPT_ADD"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
@@ -283,10 +326,14 @@ Partial Class FrmPURCHASEORDER_RECEIPT_ADD
     Friend WithEvents cmdCancel As System.Windows.Forms.Button
     Friend WithEvents cmdSave As System.Windows.Forms.Button
     Friend WithEvents Label5 As System.Windows.Forms.Label
-    Friend WithEvents ComboBox1 As System.Windows.Forms.ComboBox
+    Friend WithEvents cboSupplier As System.Windows.Forms.ComboBox
     Friend WithEvents lbWarehouse As System.Windows.Forms.Label
     Friend WithEvents cboWarehouse As System.Windows.Forms.ComboBox
-    Friend WithEvents dtapprove As System.Windows.Forms.DateTimePicker
+    Friend WithEvents dtReceiveDate As System.Windows.Forms.DateTimePicker
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents ColReceived As System.Windows.Forms.ColumnHeader
+    Friend WithEvents txtNotes As System.Windows.Forms.TextBox
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents cboPO As System.Windows.Forms.ComboBox
 End Class

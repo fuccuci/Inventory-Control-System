@@ -1002,3 +1002,5 @@ C:\Users\ttmduyen\Documents\GitHub\Inventory-Control-System\Sales and Inventory 
 C:\Users\ttmduyen\Documents\GitHub\Inventory-Control-System\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.Resources.resources
 C:\Users\ttmduyen\Documents\GitHub\Inventory-Control-System\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.vbproj.GenerateResource.Cache
 C:\Users\ttmduyen\Documents\GitHub\Inventory-Control-System\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIPT.resources
+C:\Users\ttmduyen\Documents\GitHub\Inventory-Control-System\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIPT_ADD.resources
+C:\Users\ttmduyen\Documents\GitHub\Inventory-Control-System\Sales and Inventory Management\prjSalesInventory\prjSalesInventory\obj\Debug\prjSalesInventory.FrmPURCHASEORDER_RECEIPT_DATA.resources
